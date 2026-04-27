@@ -1,4 +1,4 @@
 flask
 gunicorn
 pytube
-yt_ldp
+yt_dlp
